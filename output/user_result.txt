@@ -1,5 +1,5 @@
 更新时间,#genre#
-2025-01-27 18:46:36,url
+2025-01-28 06:33:19,url
 📺央视频道,#genre#
 CCTV-1,http://116.128.242.83:9901/tsfile/live/0001_1.m3u8?key=txiptv&playlive=1&authid=0$订阅源
 CCTV-1,http://111.31.22.5/cache.ott.fifalive.itv.cmvideo.cn/000000001000/1000000005000265002/index.m3u8?channel-id=ystenlive&Contentid=1000000005000265001&livemode=1&stbId=no$订阅源
@@ -182,7 +182,7 @@ CCTV-17,http://61.164.209.98/cache.ott.bestlive.itv.cmvideo.cn/000000001000/1000
 CCTV-17,https://api.olelive.com/dis/live/CCTV17HD/hls.m3u8$订阅源|1920x1080
 CCTV-17,http://36.156.94.111/cucc-livod.ks-cdn.gitv.tv/gitv_live/G_CCTV-17-HQ/G_CCTV-17-HQ.m3u8$订阅源
 CCTV-17,http://58.221.214.82:9901/tsfile/live/0003_2.m3u8$订阅源
-CCTV-17,http://59.173.243.210:9901/tsfile/live/1016_1.m3u8$订阅源
+CCTV-17,http://58.57.40.22:9901/tsfile/live/0019_1.m3u8$订阅源
 📡卫视频道,#genre#
 广东卫视,http://116.128.242.83:9901/tsfile/live/0124_1.m3u8?key=txiptv&playlive=1&authid=0$订阅源
 广东卫视,http://111.31.22.5/cache.ott.fifalive.itv.cmvideo.cn/000000001000/1000000005000265034/index.m3u8?channel-id=ystenlive&Contentid=1000000005000265034&livemode=1&stbId=no$订阅源
@@ -279,8 +279,6 @@ CCTV-17,http://59.173.243.210:9901/tsfile/live/1016_1.m3u8$订阅源
 🎬电影频道,#genre#
 CHC家庭影院,http://110.53.52.63:8888/newlive/live/hls/51/live.m3u8$订阅源
 CHC家庭影院,http://61.162.52.6:8088/newlive/live/hls/60/live.m3u8$订阅源
-CHC家庭影院,http://59.173.243.210:9901/tsfile/live/1031_1.m3u8$订阅源
-CHC动作电影,http://59.173.243.210:9901/tsfile/live/1012_1.m3u8$订阅源
 IPTV经典电影,http://123.56.129.203:9594/rtp/225.1.8.203:9024$北京电信组播源
 🏀体育频道,#genre#
 CCTV-5,http://gslbserv.itv.cmvideo.cn/1000000005000265005/1.m3u8?channel-id=ystenlive&Contentid=1000000005000265005&livemode=1&stbId=3$订阅源
@@ -312,6 +310,7 @@ CCTV-5+,http://122.9.151.210:2498/rtp/238.255.2.185:5999$组播源
 五星体育,http://139.196.151.191:6846/rtp/239.45.3.210:5140$组播源
 五星体育,http://139.196.151.191:3970/rtp/239.45.3.210:5140$组播源
 体育赛事,http://123.56.129.203:9594/rtp/225.1.8.81:8176$北京电信组播源
+劲爆体育,http://119.32.12.32:2901/udp/224.1.100.129:11111$订阅源|1920x1080
 超级体育,http://111.31.22.5/cache.ott.fifalive.itv.cmvideo.cn/000000001000/1000000001000009601/index.m3u8?channel-id=ystenlive&Contentid=1000000001000009601&livemode=1&stbId=no$订阅源
 超级体育,http://111.31.22.5/cache.ott.fifalive.itv.cmvideo.cn/000000001000/1000000001000009601/1.m3u8?channel-id=ystenlive&Contentid=1000000001000009601&livemode=1&stbId=3$订阅源
 精品体育,http://111.31.22.5/cache.ott.fifalive.itv.cmvideo.cn/000000001000/1000000004000014634/1.m3u8?channel-id=ystenlive&Contentid=1000000004000014634&livemode=1&stbId=3$订阅源
@@ -335,6 +334,7 @@ CCTV-15,http://61.136.172.236:9901/tsfile/live/0015_1.m3u8$订阅源
 音乐之声,https://fanmingming.com/fm?id=641$订阅源
 音乐调频广播,http://120.55.49.231:6577/rtp/233.50.201.82:5140$浙江电信组播源
 🈳无结果频道,#genre#
+CHC动作电影,url
 CHC高清电影,url
 咪咕直播1,url
 咪咕直播2,url
@@ -381,7 +381,6 @@ CHC高清电影,url
 咪咕直播43,url
 咪咕直播44,url
 咪咕直播45,url
-劲爆体育,url
 爱体育,url
 魅力足球,url
 风云音乐,url
