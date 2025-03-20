@@ -1,5 +1,5 @@
 #EXTM3U x-tvg-url="https://live.fanmingming.com/e.xml"
-#EXTINF:-1 tvg-name="2025-03-20 18:44:47" tvg-logo="https://live.fanmingming.com/tv/2025-03-20 18:44:47.png" group-title="更新时间",2025-03-20 18:44:47
+#EXTINF:-1 tvg-name="2025-03-21 06:33:52" tvg-logo="https://live.fanmingming.com/tv/2025-03-21 06:33:52.png" group-title="更新时间",2025-03-21 06:33:52
 url
 #EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://live.fanmingming.com/tv/CCTV1.png" group-title="📺央视频道",CCTV-1
 http://116.128.242.83:9901/tsfile/live/0001_1.m3u8?key=txiptv&playlive=1&authid=0$订阅源
@@ -504,7 +504,7 @@ http://aktv.top/AKTV/live/aktv/null-3/AKTV.m3u8$订阅源
 #EXTINF:-1 tvg-name="凤凰中文" tvg-logo="https://live.fanmingming.com/tv/凤凰中文.png" group-title="🌊港·澳·台",凤凰中文
 http://122.117.71.103:8574/http/61.222.53.250:8078/hls/21/80/phoenixch.m3u8$订阅源
 #EXTINF:-1 tvg-name="凤凰中文" tvg-logo="https://live.fanmingming.com/tv/凤凰中文.png" group-title="🌊港·澳·台",凤凰中文
-http://cdn.163189.xyz/live/fhzw/stream.m3u8$订阅源
+http://cdn.163189.xyz/live/fhzw/stream.m3u8$订阅源|1920x1080
 #EXTINF:-1 tvg-name="凤凰中文" tvg-logo="https://live.fanmingming.com/tv/凤凰中文.png" group-title="🌊港·澳·台",凤凰中文
 http://php.jdshipin.com/TVOD/iptv.php?id=fhzw$订阅源|1920x1080
 #EXTINF:-1 tvg-name="凤凰中文" tvg-logo="https://live.fanmingming.com/tv/凤凰中文.png" group-title="🌊港·澳·台",凤凰中文
@@ -522,7 +522,7 @@ http://aktv.top/AKTV/live/aktv/null-4/AKTV.m3u8$订阅源
 #EXTINF:-1 tvg-name="凤凰资讯" tvg-logo="https://live.fanmingming.com/tv/凤凰资讯.png" group-title="🌊港·澳·台",凤凰资讯
 https://cdn3.163189.xyz/live/fhzx/stream.m3u8$订阅源|1920x1080
 #EXTINF:-1 tvg-name="凤凰资讯" tvg-logo="https://live.fanmingming.com/tv/凤凰资讯.png" group-title="🌊港·澳·台",凤凰资讯
-http://122.117.71.103:8573/http/61.222.53.250:8078/hls/20/80/phoenixif.m3u8$订阅源
+http://122.117.71.103:8573/http/61.222.53.250:8078/hls/20/80/phoenixif.m3u8$订阅源|1920x1080
 #EXTINF:-1 tvg-name="凤凰资讯" tvg-logo="https://live.fanmingming.com/tv/凤凰资讯.png" group-title="🌊港·澳·台",凤凰资讯
 http://221.7.175.154:8445/tsfile/live/1021_1.m3u8?key=txiptv&playlive=1&authid=0$订阅源
 #EXTINF:-1 tvg-name="凤凰资讯" tvg-logo="https://live.fanmingming.com/tv/凤凰资讯.png" group-title="🌊港·澳·台",凤凰资讯
@@ -580,7 +580,7 @@ http://z.b.bkpcp.top/m.php?id=chcjtyy$订阅源|1920x1080
 #EXTINF:-1 tvg-name="CHC家庭影院" tvg-logo="https://live.fanmingming.com/tv/CHC家庭影院.png" group-title="🎬电影频道",CHC家庭影院
 https://www.freetv.top/migu/644368373.m3u8?migutoken=b9d9d0ba0208e949cf0736455b86290b2d1d2ff4727f523b7117dde6eb883cb4582c5ce1519685e57d54bfb562057c10a00dde58bb674d8600fd2d918b8cb440294e083e7b8f19e0dbcc9250d8$订阅源|1920x1080
 #EXTINF:-1 tvg-name="CHC家庭影院" tvg-logo="https://live.fanmingming.com/tv/CHC家庭影院.png" group-title="🎬电影频道",CHC家庭影院
-http://nas.hssvm.com:8888/udp/225.1.1.213:5002$订阅源
+http://api2.52tb.xyz/info?id=220&token=20230218jsyklh$订阅源|1920x1080
 #EXTINF:-1 tvg-name="CHC动作电影" tvg-logo="https://live.fanmingming.com/tv/CHC动作电影.png" group-title="🎬电影频道",CHC动作电影
 http://110.53.52.63:8888/newlive/live/hls/53/live.m3u8$订阅源
 #EXTINF:-1 tvg-name="CHC动作电影" tvg-logo="https://live.fanmingming.com/tv/CHC动作电影.png" group-title="🎬电影频道",CHC动作电影
@@ -594,13 +594,13 @@ http://z.b.bkpcp.top/m.php?id=dzdy$订阅源|1920x1080
 #EXTINF:-1 tvg-name="CHC动作电影" tvg-logo="https://live.fanmingming.com/tv/CHC动作电影.png" group-title="🎬电影频道",CHC动作电影
 http://218.15.183.23:9901/tsfile/live/23039_1.m3u8$订阅源
 #EXTINF:-1 tvg-name="CHC动作电影" tvg-logo="https://live.fanmingming.com/tv/CHC动作电影.png" group-title="🎬电影频道",CHC动作电影
-http://nas.hssvm.com:8888/udp/225.1.1.215:5002$订阅源
-#EXTINF:-1 tvg-name="CHC动作电影" tvg-logo="https://live.fanmingming.com/tv/CHC动作电影.png" group-title="🎬电影频道",CHC动作电影
 http://api2.52tb.xyz/info?id=219&token=20230218jsyklh$订阅源|1920x1080
 #EXTINF:-1 tvg-name="CHC动作电影" tvg-logo="https://live.fanmingming.com/tv/CHC动作电影.png" group-title="🎬电影频道",CHC动作电影
 https://tv.bfsu.edu.cn/hls/chcatv.m3u8$订阅源
 #EXTINF:-1 tvg-name="CHC动作电影" tvg-logo="https://live.fanmingming.com/tv/CHC动作电影.png" group-title="🎬电影频道",CHC动作电影
 http://120.198.101.106:9901/tsfile/live/1052_1.m3u8?key=txiptv$订阅源
+#EXTINF:-1 tvg-name="CHC动作电影" tvg-logo="https://live.fanmingming.com/tv/CHC动作电影.png" group-title="🎬电影频道",CHC动作电影
+http://api3.52tb.xyz/info?id=221&token=20221127jxwhhemby$订阅源|1920x1080
 #EXTINF:-1 tvg-name="IPTV经典电影" tvg-logo="https://live.fanmingming.com/tv/IPTV经典电影.png" group-title="🎬电影频道",IPTV经典电影
 http://123.56.129.203:9594/rtp/225.1.8.203:9024$北京电信组播源
 #EXTINF:-1 tvg-name="CCTV5" tvg-logo="https://live.fanmingming.com/tv/CCTV5.png" group-title="🏀体育频道",CCTV-5
@@ -647,12 +647,10 @@ http://61.138.128.226:19901/tsfile/live/1006_1.m3u8$订阅源
 http://live.xmcdn.com/live/57/64.m3u8$订阅源
 #EXTINF:-1 tvg-name="五星体育" tvg-logo="https://live.fanmingming.com/tv/五星体育.png" group-title="🏀体育频道",五星体育
 http://api2.52tb.xyz/info?id=375&token=20230120rdbtgv$订阅源|1920x1080
-#EXTINF:-1 tvg-name="五星体育" tvg-logo="https://live.fanmingming.com/tv/五星体育.png" group-title="🏀体育频道",五星体育
-http://139.196.151.191:2051/rtp/239.45.3.210:5140$组播源
-#EXTINF:-1 tvg-name="五星体育" tvg-logo="https://live.fanmingming.com/tv/五星体育.png" group-title="🏀体育频道",五星体育
-http://139.196.214.238/rtp/239.45.3.210:5140$组播源
 #EXTINF:-1 tvg-name="体育赛事" tvg-logo="https://live.fanmingming.com/tv/体育赛事.png" group-title="🏀体育频道",体育赛事
 http://123.56.129.203:9594/rtp/225.1.8.81:8176$北京电信组播源
+#EXTINF:-1 tvg-name="爱体育" tvg-logo="https://live.fanmingming.com/tv/爱体育.png" group-title="🏀体育频道",爱体育
+http://222.211.163.152:9998/rtp/239.93.0.135:9008$四川电信组播源
 #EXTINF:-1 tvg-name="超级体育" tvg-logo="https://live.fanmingming.com/tv/超级体育.png" group-title="🏀体育频道",超级体育
 http://111.31.22.5/cache.ott.fifalive.itv.cmvideo.cn/000000001000/1000000001000009601/index.m3u8?channel-id=ystenlive&Contentid=1000000001000009601&livemode=1&stbId=no$订阅源
 #EXTINF:-1 tvg-name="超级体育" tvg-logo="https://live.fanmingming.com/tv/超级体育.png" group-title="🏀体育频道",超级体育
@@ -786,8 +784,6 @@ url
 #EXTINF:-1 tvg-name="咪咕直播45" tvg-logo="https://live.fanmingming.com/tv/咪咕直播45.png" group-title="🈳无结果频道",咪咕直播45
 url
 #EXTINF:-1 tvg-name="劲爆体育" tvg-logo="https://live.fanmingming.com/tv/劲爆体育.png" group-title="🈳无结果频道",劲爆体育
-url
-#EXTINF:-1 tvg-name="爱体育" tvg-logo="https://live.fanmingming.com/tv/爱体育.png" group-title="🈳无结果频道",爱体育
 url
 #EXTINF:-1 tvg-name="魅力足球" tvg-logo="https://live.fanmingming.com/tv/魅力足球.png" group-title="🈳无结果频道",魅力足球
 url
