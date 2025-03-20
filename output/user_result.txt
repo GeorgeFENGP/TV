@@ -1,5 +1,5 @@
 更新时间,#genre#
-2025-03-20 06:33:56,url
+2025-03-20 18:44:47,url
 📺央视频道,#genre#
 CCTV-1,http://116.128.242.83:9901/tsfile/live/0001_1.m3u8?key=txiptv&playlive=1&authid=0$订阅源
 CCTV-1,http://61.164.209.98/cache.ott.bestlive.itv.cmvideo.cn/000000001000/6000000001000029752/index.m3u8?channel-id=wasusyt&Contentid=6000000001000029752&livemode=1&stbId=no$订阅源
@@ -196,7 +196,6 @@ CCTV-17,http://222.219.183.103:8089/hls/17/index.m3u8$订阅源
 香港卫视,https://piccpndks.v.kcdnvip.com/audio/xianggangweishi_2.m3u8$订阅源
 香港卫视,https://piccpndali.v.myalicdn.com/audio/xianggangweishi_2.m3u8$订阅源
 香港卫视,http://player.cntv.cn/standard/live_HLSDRM20180606.swf?ChannelID=xianggangweishi&P2PChannelID=pd://cctv_p2p_hdxianggangweishi$订阅源
-香港卫视,http://148.135.34.95/mn.php?playurl=http://www.pelotas.org:8278/hkphoenix_twn/playlist.m3u8$订阅源
 浙江卫视,http://116.128.242.83:9901/tsfile/live/1010_1.m3u8?key=txiptv&playlive=1&authid=0$订阅源
 浙江卫视,http://60.223.224.176:8888/newlive/live/hls/23/live.m3u8$订阅源
 浙江卫视,http://61.136.172.236:9901/tsfile/live/0124_1.m3u8$订阅源
@@ -255,7 +254,7 @@ CCTV-17,http://222.219.183.103:8089/hls/17/index.m3u8$订阅源
 凤凰中文,http://playtv-live.ifeng.com/live/06OLEGEGM4G.m3u8$订阅源
 凤凰中文,http://aktv.top/AKTV/live/aktv/null-3/AKTV.m3u8$订阅源
 凤凰中文,http://122.117.71.103:8574/http/61.222.53.250:8078/hls/21/80/phoenixch.m3u8$订阅源
-凤凰中文,http://cdn.163189.xyz/live/fhzw/stream.m3u8$订阅源|1920x1080
+凤凰中文,http://cdn.163189.xyz/live/fhzw/stream.m3u8$订阅源
 凤凰中文,http://php.jdshipin.com/TVOD/iptv.php?id=fhzw$订阅源|1920x1080
 凤凰中文,http://php.jdshipin.com/TVOD/iptv.php?id=fhzw2$订阅源|1920x1080
 凤凰资讯,http://playtv-live.ifeng.com:80/live/06OLEEWQKN4.m3u8$订阅源
@@ -294,14 +293,14 @@ CHC家庭影院,http://goo.bkpcp.top/mg/jtyy$订阅源|1920x1080
 CHC家庭影院,http://gat.bkpcp.top/ymg.php?id=jtyy$订阅源|1920x1080
 CHC家庭影院,http://z.b.bkpcp.top/m.php?id=chcjtyy$订阅源|1920x1080
 CHC家庭影院,https://www.freetv.top/migu/644368373.m3u8?migutoken=b9d9d0ba0208e949cf0736455b86290b2d1d2ff4727f523b7117dde6eb883cb4582c5ce1519685e57d54bfb562057c10a00dde58bb674d8600fd2d918b8cb440294e083e7b8f19e0dbcc9250d8$订阅源|1920x1080
-CHC家庭影院,http://nas.hssvm.com:8888/udp/225.1.1.213:5002$订阅源|1920x1080
+CHC家庭影院,http://nas.hssvm.com:8888/udp/225.1.1.213:5002$订阅源
 CHC动作电影,http://110.53.52.63:8888/newlive/live/hls/53/live.m3u8$订阅源
 CHC动作电影,http://120.238.94.82:9901/tsfile/live/1052_1.m3u8$订阅源
 CHC动作电影,http://dassby.qqff.top:99/live/CHC动作电影/index.m3u8$订阅源
 CHC动作电影,http://goo.bkpcp.top/mg/dzdy$订阅源|1920x1080
 CHC动作电影,http://z.b.bkpcp.top/m.php?id=dzdy$订阅源|1920x1080
 CHC动作电影,http://218.15.183.23:9901/tsfile/live/23039_1.m3u8$订阅源
-CHC动作电影,http://nas.hssvm.com:8888/udp/225.1.1.215:5002$订阅源|1920x1080
+CHC动作电影,http://nas.hssvm.com:8888/udp/225.1.1.215:5002$订阅源
 CHC动作电影,http://api2.52tb.xyz/info?id=219&token=20230218jsyklh$订阅源|1920x1080
 CHC动作电影,https://tv.bfsu.edu.cn/hls/chcatv.m3u8$订阅源
 CHC动作电影,http://120.198.101.106:9901/tsfile/live/1052_1.m3u8?key=txiptv$订阅源
@@ -330,6 +329,7 @@ CCTV-5+,http://61.138.128.226:19901/tsfile/live/1006_1.m3u8$订阅源
 五星体育,http://live.xmcdn.com/live/57/64.m3u8$订阅源
 五星体育,http://api2.52tb.xyz/info?id=375&token=20230120rdbtgv$订阅源|1920x1080
 五星体育,http://139.196.151.191:2051/rtp/239.45.3.210:5140$组播源
+五星体育,http://139.196.214.238/rtp/239.45.3.210:5140$组播源
 体育赛事,http://123.56.129.203:9594/rtp/225.1.8.81:8176$北京电信组播源
 超级体育,http://111.31.22.5/cache.ott.fifalive.itv.cmvideo.cn/000000001000/1000000001000009601/index.m3u8?channel-id=ystenlive&Contentid=1000000001000009601&livemode=1&stbId=no$订阅源
 超级体育,http://111.31.22.5/cache.ott.fifalive.itv.cmvideo.cn/000000001000/1000000001000009601/1.m3u8?channel-id=ystenlive&Contentid=1000000001000009601&livemode=1&stbId=3$订阅源
@@ -351,6 +351,7 @@ CCTV-15,http://116.128.242.83:9901/tsfile/live/0016_1.m3u8$订阅源
 音乐现场,http://123.56.129.203:9594/rtp/225.1.8.230:4120$北京电信组播源
 音乐之声,http://ngcdn003.cnr.cn/live/yyzs/index.m3u8$订阅源
 音乐之声,https://fanmingming.com/fm?id=641$订阅源
+音乐调频广播,http://120.55.49.231:6577/rtp/233.50.201.82:5140$浙江电信组播源
 🈳无结果频道,#genre#
 CHC高清电影,url
 咪咕直播1,url
@@ -405,4 +406,3 @@ CHC高清电影,url
 潮流音乐,url
 天津音乐,url
 音乐广播,url
-音乐调频广播,url
