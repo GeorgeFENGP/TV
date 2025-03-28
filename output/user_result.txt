@@ -1,5 +1,5 @@
 更新时间,#genre#
-2025-03-28 06:33:25,url
+2025-03-28 18:42:57,url
 📺央视频道,#genre#
 CCTV-1,http://116.128.242.83:9901/tsfile/live/0001_1.m3u8?key=txiptv&playlive=1&authid=0$订阅源
 CCTV-1,http://61.164.209.98/cache.ott.bestlive.itv.cmvideo.cn/000000001000/6000000001000029752/index.m3u8?channel-id=wasusyt&Contentid=6000000001000029752&livemode=1&stbId=no$订阅源
@@ -263,7 +263,7 @@ CCTV-17,http://58.243.224.244:9901/tsfile/live/1014_1.m3u8?key=txiptv&playlive=0
 凤凰资讯,http://playtv-live.ifeng.com/live/06OLEEWQKN4.m3u8$订阅源
 凤凰资讯,https://playtv-live.ifeng.com/live/06OLEEWQKN4.m3u8$订阅源
 凤凰资讯,http://aktv.top/AKTV/live/aktv/null-4/AKTV.m3u8$订阅源
-凤凰资讯,https://cdn3.163189.xyz/live/fhzx/stream.m3u8$订阅源|1920x1080
+凤凰资讯,https://cdn3.163189.xyz/live/fhzx/stream.m3u8$订阅源
 凤凰资讯,http://122.117.71.103:8573/http/61.222.53.250:8078/hls/20/80/phoenixif.m3u8$订阅源
 凤凰资讯,http://221.7.175.154:8445/tsfile/live/1021_1.m3u8?key=txiptv&playlive=1&authid=0$订阅源
 凤凰资讯,http://php.jdshipin.com/TVOD/iptv.php?id=fhzx$订阅源|1920x1080
@@ -350,6 +350,7 @@ CCTV-15,http://116.128.242.83:9901/tsfile/live/0016_1.m3u8$订阅源
 音乐现场,http://123.56.129.203:9594/rtp/225.1.8.230:4120$北京电信组播源
 音乐之声,http://ngcdn003.cnr.cn/live/yyzs/index.m3u8$订阅源
 音乐之声,https://fanmingming.com/fm?id=641$订阅源
+音乐调频广播,http://120.55.49.231:6577/rtp/233.50.201.82:5140$浙江电信组播源
 🈳无结果频道,#genre#
 CHC高清电影,url
 咪咕直播1,url
@@ -404,4 +405,3 @@ CHC高清电影,url
 潮流音乐,url
 天津音乐,url
 音乐广播,url
-音乐调频广播,url
