@@ -1,5 +1,5 @@
 更新时间,#genre#
-2025-03-29 06:33:34,url
+2025-03-29 18:42:56,url
 📺央视频道,#genre#
 CCTV-1,http://116.128.242.83:9901/tsfile/live/0001_1.m3u8?key=txiptv&playlive=1&authid=0$订阅源
 CCTV-1,http://61.164.209.98/cache.ott.bestlive.itv.cmvideo.cn/000000001000/6000000001000029752/index.m3u8?channel-id=wasusyt&Contentid=6000000001000029752&livemode=1&stbId=no$订阅源
@@ -264,7 +264,7 @@ CCTV-17,http://58.243.224.244:9901/tsfile/live/1014_1.m3u8?key=txiptv&playlive=0
 凤凰资讯,https://playtv-live.ifeng.com/live/06OLEEWQKN4.m3u8$订阅源
 凤凰资讯,http://aktv.top/AKTV/live/aktv/null-4/AKTV.m3u8$订阅源
 凤凰资讯,https://cdn3.163189.xyz/live/fhzx/stream.m3u8$订阅源|1920x1080
-凤凰资讯,http://122.117.71.103:8573/http/61.222.53.250:8078/hls/20/80/phoenixif.m3u8$订阅源|1920x1080
+凤凰资讯,http://122.117.71.103:8573/http/61.222.53.250:8078/hls/20/80/phoenixif.m3u8$订阅源
 凤凰资讯,http://221.7.175.154:8445/tsfile/live/1021_1.m3u8?key=txiptv&playlive=1&authid=0$订阅源
 凤凰资讯,http://php.jdshipin.com/TVOD/iptv.php?id=fhzx$订阅源|1920x1080
 凤凰资讯,http://aktv_stream1.m16tv.cfd/stream/aktv/null-4/AKTV.m3u8$订阅源|1920x1080
@@ -281,29 +281,24 @@ CCTV-17,http://58.243.224.244:9901/tsfile/live/1014_1.m3u8?key=txiptv&playlive=0
 凤凰卫视,http://221.7.175.154:8445/tsfile/live/1020_1.m3u8$订阅源
 凤凰卫视,http://221.7.175.154:8445/tsfile/live/1020_1.m3u8?key=txiptv&playlive=1&authid=0$订阅源
 凤凰卫视,http://122.152.202.33/s/81a8a44f/index.m3u8?id=15$订阅源
-凤凰卫视,http://120.198.101.106:9901/tsfile/live/1062_1.m3u8?key=txiptv$订阅源
 凤凰卫视,https://haoyunlai.serv00.net/Smartv-1.php?id=phoenixtv_hd$订阅源
-凤凰卫视,http://php.jdshipin.com:8880/smt.php?id=phoenixtv_hd$订阅源
+凤凰卫视,http://php.jdshipin.com:8880/smt.php?id=phoenixtv_hd$订阅源|1920x1080
 凤凰卫视,http://cdn.132.us.kg/live/fhzw/stream.m3u8$订阅源|1920x1080
 🎬电影频道,#genre#
 CHC家庭影院,http://110.53.52.63:8888/newlive/live/hls/51/live.m3u8$订阅源
 CHC家庭影院,http://61.162.52.6:8088/newlive/live/hls/60/live.m3u8$订阅源
 CHC家庭影院,http://dassby.qqff.top:99/live/CHC家庭影院/index.m3u8$订阅源
 CHC家庭影院,http://api3.52tb.xyz/info?id=220&token=20221127jxwhhemby$订阅源
-CHC家庭影院,http://120.198.101.106:9901/tsfile/live/1051_1.m3u8?key=txiptv$订阅源
 CHC家庭影院,https://www.freetv.top/migu/644368373.m3u8?migutoken=b9d9d0ba0208e949cf0736455b86290b2d1d2ff4727f523b7117dde6eb883cb4582c5ce1519685e57d54bfb562057c10a00dde58bb674d8600fd2d918b8cb440294e083e7b8f19e0dbcc9250d8$订阅源|1920x1080
 CHC家庭影院,http://api2.52tb.xyz/info?id=220&token=20230218jsyklh$订阅源
 CHC家庭影院,https://tv.bfsu.edu.cn/hls/chctv.m3u8$订阅源
-CHC家庭影院,http://180.213.174.225:9901/tsfile/live/1030_1.m3u8?key=txiptv&playlive=1&authid=0$订阅源
 CHC动作电影,http://110.53.52.63:8888/newlive/live/hls/53/live.m3u8$订阅源
 CHC动作电影,http://120.238.94.82:9901/tsfile/live/1052_1.m3u8$订阅源
 CHC动作电影,http://dassby.qqff.top:99/live/CHC动作电影/index.m3u8$订阅源
 CHC动作电影,http://218.15.183.23:9901/tsfile/live/23039_1.m3u8$订阅源
 CHC动作电影,http://api2.52tb.xyz/info?id=219&token=20230218jsyklh$订阅源
 CHC动作电影,https://tv.bfsu.edu.cn/hls/chcatv.m3u8$订阅源
-CHC动作电影,http://120.198.101.106:9901/tsfile/live/1052_1.m3u8?key=txiptv$订阅源
 CHC动作电影,http://api3.52tb.xyz/info?id=221&token=20221127jxwhhemby$订阅源
-CHC动作电影,http://180.213.174.225:9901/tsfile/live/1027_1.m3u8?key=txiptv&playlive=1&authid=0$订阅源
 CHC动作电影,http://183.237.95.108:9901/tsfile/live/1006_1.m3u8?key=txiptv&playlive=0&authid=0$订阅源
 IPTV经典电影,http://123.56.129.203:9594/rtp/225.1.8.203:9024$北京电信组播源
 🏀体育频道,#genre#
@@ -350,6 +345,7 @@ CCTV-15,http://116.128.242.83:9901/tsfile/live/0016_1.m3u8$订阅源
 音乐现场,http://123.56.129.203:9594/rtp/225.1.8.230:4120$北京电信组播源
 音乐之声,http://ngcdn003.cnr.cn/live/yyzs/index.m3u8$订阅源
 音乐之声,https://fanmingming.com/fm?id=641$订阅源
+音乐调频广播,http://120.55.49.231:6577/rtp/233.50.201.82:5140$浙江电信组播源
 🈳无结果频道,#genre#
 CHC高清电影,url
 咪咕直播1,url
@@ -404,4 +400,3 @@ CHC高清电影,url
 潮流音乐,url
 天津音乐,url
 音乐广播,url
-音乐调频广播,url
